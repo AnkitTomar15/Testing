@@ -1,0 +1,20 @@
+2022-04-28 18:55:06,920 [main] INFO InternetBanking - URL is opened
+2022-04-28 18:55:07,060 [main] INFO InternetBanking - Username is Entered
+2022-04-28 18:55:07,188 [main] INFO InternetBanking - Password is Entered
+2022-04-28 18:55:09,405 [main] INFO InternetBanking - Logging test is failed
+2022-05-01 12:02:23,077 [main] INFO InternetBanking - URL is opened
+2022-05-01 12:02:23,592 [main] INFO InternetBanking - Username is Entered
+2022-05-01 12:02:23,857 [main] INFO InternetBanking - Password is Entered
+2022-05-01 12:02:26,626 [main] INFO InternetBanking - Logging test is failed
+2022-05-01 13:26:34,603 [main] INFO InternetBanking - URL is opened
+2022-05-01 13:26:34,899 [main] INFO InternetBanking - Username is Entered
+2022-05-01 13:26:35,072 [main] INFO InternetBanking - Password is Entered
+2022-05-01 13:26:37,364 [main] INFO InternetBanking - Logging test is failed
+2022-05-01 13:27:24,472 [main] INFO InternetBanking - URL is opened
+2022-05-01 13:27:24,788 [main] INFO InternetBanking - Username is Entered
+2022-05-01 13:27:25,530 [main] INFO InternetBanking - Password is Entered
+2022-05-01 13:27:29,472 [main] INFO InternetBanking - Logging test is failed
+2022-05-01 13:36:09,629 [main] INFO InternetBanking - URL is opened
+2022-05-01 13:36:09,886 [main] INFO InternetBanking - Username is Entered
+2022-05-01 13:36:10,323 [main] INFO InternetBanking - Password is Entered
+2022-05-01 13:36:12,967 [main] INFO InternetBanking - Logging test is failed
