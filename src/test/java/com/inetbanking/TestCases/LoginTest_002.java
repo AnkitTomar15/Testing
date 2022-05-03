@@ -64,7 +64,7 @@ public boolean isAlertPresent() //user defined method created to check alert is 
 @DataProvider(name="LoginData")
 String [][] getData() throws IOException
 {
-	String path=System.getProperty("user.dir")+"/src/test/java/com/inetbanking/testData/LoginData.xlsx";
+	String path=System.getProperty("user.dir")+"/src/test/java/com/netBanking/Testdata/LoginData.xlsx";
 	
 	int rownum=XLUtils.getRowCount(path, "Sheet1");
 	int colcount=XLUtils.getCellCount(path,"Sheet1",1);

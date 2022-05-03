@@ -26,3 +26,30 @@
 2022-05-01 13:36:09,886 - InternetBanking -INFO - Username is Entered
 2022-05-01 13:36:10,323 - InternetBanking -INFO - Password is Entered
 2022-05-01 13:36:12,967 - InternetBanking -INFO - Logging test is failed
+2022-05-03 19:02:26,476 - InternetBanking -INFO - URL is opened
+2022-05-03 19:02:27,910 - InternetBanking -INFO - Username is Entered
+2022-05-03 19:02:28,100 - InternetBanking -INFO - Password is Entered
+2022-05-03 19:02:32,343 - InternetBanking -INFO - Logging test is failed
+2022-05-03 19:06:27,841 - InternetBanking -INFO - URL is opened
+2022-05-03 19:06:28,551 - InternetBanking -INFO - Username is Entered
+2022-05-03 19:06:28,709 - InternetBanking -INFO - Password is Entered
+2022-05-03 19:06:32,543 - InternetBanking -INFO - Logging test is failed
+2022-05-03 19:07:36,539 - InternetBanking -INFO - URL is opened
+2022-05-03 19:07:37,847 - InternetBanking -INFO - Username is Entered
+2022-05-03 19:07:38,128 - InternetBanking -INFO - Password is Entered
+2022-05-03 19:07:42,156 - InternetBanking -INFO - Logging test is passed
+2022-05-03 19:38:25,776 - InternetBanking -INFO - user name provided
+2022-05-03 19:38:25,884 - InternetBanking -INFO - password provided
+2022-05-03 19:38:35,709 - InternetBanking -INFO - Login passed
+2022-05-03 19:39:17,855 - InternetBanking -INFO - user name provided
+2022-05-03 19:39:17,968 - InternetBanking -INFO - password provided
+2022-05-03 19:39:27,588 - InternetBanking -INFO - Login passed
+2022-05-03 19:39:41,130 - InternetBanking -INFO - user name provided
+2022-05-03 19:39:41,231 - InternetBanking -INFO - password provided
+2022-05-03 19:39:52,505 - InternetBanking -INFO - user name provided
+2022-05-03 19:39:52,610 - InternetBanking -INFO - password provided
+2022-05-03 19:39:59,813 - InternetBanking -INFO - Login passed
+2022-05-03 19:40:10,742 - InternetBanking -INFO - user name provided
+2022-05-03 19:40:10,847 - InternetBanking -INFO - password provided
+2022-05-03 19:40:18,335 - InternetBanking -INFO - user name provided
+2022-05-03 19:40:18,446 - InternetBanking -INFO - password provided

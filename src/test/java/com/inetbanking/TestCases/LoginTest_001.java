@@ -23,8 +23,9 @@ public class LoginTest_001 extends BaseClass{
 		logger.info("Password is Entered");
 		
 		lp.ClickSubmit();
-		
-		if(driver.getTitle().equals("Welcome To Manager's Page of Guru99 Bank"))
+		//String s =driver.getTitle();
+		//System.out.print(s);		
+		if(driver.getTitle().equals("Guru99 Bank Manager HomePage"))
 		{
 			Assert.assertTrue(true);
 			logger.info("Logging test is passed");

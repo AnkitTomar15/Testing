@@ -18,3 +18,30 @@
 2022-05-01 13:36:09,886 [main] INFO InternetBanking - Username is Entered
 2022-05-01 13:36:10,323 [main] INFO InternetBanking - Password is Entered
 2022-05-01 13:36:12,967 [main] INFO InternetBanking - Logging test is failed
+2022-05-03 19:02:26,476 [main] INFO InternetBanking - URL is opened
+2022-05-03 19:02:27,910 [main] INFO InternetBanking - Username is Entered
+2022-05-03 19:02:28,100 [main] INFO InternetBanking - Password is Entered
+2022-05-03 19:02:32,343 [main] INFO InternetBanking - Logging test is failed
+2022-05-03 19:06:27,841 [main] INFO InternetBanking - URL is opened
+2022-05-03 19:06:28,551 [main] INFO InternetBanking - Username is Entered
+2022-05-03 19:06:28,709 [main] INFO InternetBanking - Password is Entered
+2022-05-03 19:06:32,543 [main] INFO InternetBanking - Logging test is failed
+2022-05-03 19:07:36,539 [main] INFO InternetBanking - URL is opened
+2022-05-03 19:07:37,847 [main] INFO InternetBanking - Username is Entered
+2022-05-03 19:07:38,128 [main] INFO InternetBanking - Password is Entered
+2022-05-03 19:07:42,156 [main] INFO InternetBanking - Logging test is passed
+2022-05-03 19:38:25,776 [main] INFO InternetBanking - user name provided
+2022-05-03 19:38:25,884 [main] INFO InternetBanking - password provided
+2022-05-03 19:38:35,709 [main] INFO InternetBanking - Login passed
+2022-05-03 19:39:17,855 [main] INFO InternetBanking - user name provided
+2022-05-03 19:39:17,968 [main] INFO InternetBanking - password provided
+2022-05-03 19:39:27,588 [main] INFO InternetBanking - Login passed
+2022-05-03 19:39:41,130 [main] INFO InternetBanking - user name provided
+2022-05-03 19:39:41,231 [main] INFO InternetBanking - password provided
+2022-05-03 19:39:52,505 [main] INFO InternetBanking - user name provided
+2022-05-03 19:39:52,610 [main] INFO InternetBanking - password provided
+2022-05-03 19:39:59,813 [main] INFO InternetBanking - Login passed
+2022-05-03 19:40:10,742 [main] INFO InternetBanking - user name provided
+2022-05-03 19:40:10,847 [main] INFO InternetBanking - password provided
+2022-05-03 19:40:18,335 [main] INFO InternetBanking - user name provided
+2022-05-03 19:40:18,446 [main] INFO InternetBanking - password provided

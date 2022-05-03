@@ -2,6 +2,7 @@ package com.inetbanking.TestCases;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
@@ -72,6 +73,8 @@ public class BaseClass {
 			System.setProperty("webdriver.chrome.driver",data.getIEPath()); 
 			driver= new ChromeDriver();
 		}
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		driver.get(baseURL);
 		
 	}
 	

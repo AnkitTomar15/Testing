@@ -13,7 +13,7 @@
 
 <classes>
 
-<!--class name="com.inetbanking.TestCases.LoginTest_001"/-->
+<!-- class name="com.inetbanking.TestCases.LoginTest_001"/-->
 <class name="com.inetbanking.TestCases.LoginTest_002"/>
 
 </classes>
